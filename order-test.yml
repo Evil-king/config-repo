@@ -11,5 +11,5 @@ spring:
 env:
   test4
 girl:
-  name: 司徒丽颖
+  name: fox
   age: 100
