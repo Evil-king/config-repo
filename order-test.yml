@@ -11,5 +11,5 @@ spring:
 env:
   test4
 girl:
-  name: fox
-  age: 100
+  name: huwenqing
+  age: 18
